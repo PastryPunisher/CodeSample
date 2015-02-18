@@ -1,0 +1,12 @@
+
+*.properties~
+
+*.xml~
+
+*.MF~
+
+*.txt~
+
+*.java~
+/KillerRabbit/build/
+private.xml
